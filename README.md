@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S-aint
 - 👀 I’m interested in Data Analysis, Front End Development.
-- 🌱 I’m currently learning HTML,JAVA,CSS,REACT.
+- 🌱 I’m currently learning Python, HTML, JAVA, CSS, REACT.
 - 📫 How to reach me iabdghaffar@gmail.com / gdfella@email.com
 
 <!---
